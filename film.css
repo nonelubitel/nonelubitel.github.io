@@ -11,8 +11,14 @@
   border-style: solid;
   font-weight: 700;
   background-image: none;
-  margin: -927px auto 883px 456px;
+  margin: -927px auto 0 456px;
   padding: 10px 13px 10px 11px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 93px;
+  height: 124px;
+  margin: -275px auto 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -40,7 +46,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-1 {
-    margin-top: 60px;
+    margin-top: 1006px;
     margin-right: 0;
   }
 
@@ -50,6 +56,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 60px;
+  }
+
   .u-section-1 .u-btn-1 {
     margin-top: -1063px;
     margin-left: auto;
@@ -59,12 +69,12 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin: 40px 273px 60px 115px;
+  margin: 41px 270px 58px 118px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-text-1 {
-    margin-right: 173px;
+    margin-right: 170px;
     margin-left: 232px;
   }
 }
