@@ -1,17 +1,18 @@
  .u-section-1 {
   background-position: 0px 0px;
   background-repeat: repeat;
+  background-image: url("images/031.gif");
   background-size: auto;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 602px;
+  min-height: 712px;
 }
 
 .u-section-1 .u-image-1 {
   width: 290px;
   height: 387px;
-  margin: 2px auto 0 131px;
+  margin: 112px auto 0 131px;
 }
 
 .u-section-1 .u-text-1 {
@@ -24,7 +25,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 496px;
+    min-height: 587px;
   }
 
   .u-section-1 .u-text-1 {
