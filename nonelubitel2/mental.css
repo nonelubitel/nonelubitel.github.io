@@ -1,0 +1,39 @@
+ .u-section-1 {
+  background-position: 50% 50%, 0px 0px;
+  background-repeat: no-repeat, repeat;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("images/125.gif");
+  background-size: cover, auto;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 575px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 60px;
+  margin-top: 195px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 474px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 363px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 272px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 171px;
+  }
+}
