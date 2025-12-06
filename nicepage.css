@@ -47531,7 +47531,7 @@ a.u-link.u-text-hover-color-var:hover {
   font-weight: 700;
   line-height: 1.12;
   margin: 30px auto 0 328px;
-  padding: 10px 13px;
+  padding: 10px 3px 10px 2px;
 }
 
 .u-header .u-btn-2 {
@@ -47540,7 +47540,7 @@ a.u-link.u-text-hover-color-var:hover {
   border-style: solid;
   line-height: 0.72;
   font-weight: 700;
-  margin: -49px 386px 0 auto;
+  margin: -49px 432px 0 auto;
   padding: 10px 8px;
 }
 
@@ -47571,7 +47571,7 @@ a.u-link.u-text-hover-color-var:hover {
 
   .u-header .u-btn-2 {
     margin-top: -49px;
-    margin-right: 186px;
+    margin-right: 232px;
   }
 
   .u-header .u-btn-3 {
@@ -47589,10 +47589,14 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-btn-2 {
+    margin-right: 12px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-btn-2 {
     margin-right: 0;
   }
 }
-
 
 .u-footer .u-sheet-1 {
   min-height: 12px;
