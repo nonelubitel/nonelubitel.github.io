@@ -9,31 +9,37 @@
 }
 
 .u-section-1 .u-image-1 {
-  height: 739px;
-  margin-top: 36px;
-  margin-bottom: 0;
+  width: 1176px;
+  height: 735px;
+  margin: 20px -18px;
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    min-height: 497px;
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 587px;
+    margin-right: 0;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 991px) {
-   .u-section-1 {
-    min-height: 349px;
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 450px;
   }
 }
 
 @media (max-width: 767px) {
-   .u-section-1 {
-    min-height: 228px;
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 338px;
   }
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
-    min-height: 94px;
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 213px;
   }
 }
