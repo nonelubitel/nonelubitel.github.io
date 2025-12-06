@@ -47580,10 +47580,14 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-btn-4 {
-    margin-top: -33px;
+    margin-top: 20px;
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 156px;
+  }
+
   .u-header .u-btn-1 {
     margin-left: 0;
   }
@@ -47591,10 +47595,27 @@ a.u-link.u-text-hover-color-var:hover {
   .u-header .u-btn-2 {
     margin-right: 12px;
   }
+
+  .u-header .u-btn-3 {
+    margin-top: -33px;
+    margin-left: auto;
+  }
+
+  .u-header .u-btn-4 {
+    margin-top: 20px;
+  }
 }
 @media (max-width: 767px) {
   .u-header .u-btn-2 {
     margin-right: 0;
+  }
+
+  .u-header .u-btn-3 {
+    margin-top: 20px;
+  }
+
+  .u-header .u-btn-4 {
+    margin-top: -33px;
   }
 }
 
