@@ -6,19 +6,19 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1836px;
+  min-height: 2065px;
 }
 
 .u-section-1 .u-group-elements-1 {
   width: 620px;
   min-height: 1612px;
   height: auto;
-  margin: 129px auto 60px;
+  margin: 250px auto 60px;
 }
 
 .u-section-1 .u-text-1 {
   width: 620px;
-  margin: -4px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-btn-1 {
@@ -26,7 +26,7 @@
   border-style: solid;
   font-weight: 700;
   background-image: none;
-  margin: -1332px auto 0 246px;
+  margin: -1333px auto 0;
   padding: 10px 13px 10px 11px;
 }
 
