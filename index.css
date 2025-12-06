@@ -6,7 +6,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 955px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-image-1 {
@@ -23,10 +23,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 787px;
-  }
-
   .u-section-1 .u-text-1 {
     margin-right: 230px;
     margin-left: 442px;
