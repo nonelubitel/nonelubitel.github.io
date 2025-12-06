@@ -47618,7 +47618,20 @@ a.u-link.u-text-hover-color-var:hover {
     margin-top: -33px;
   }
 }
+@media (max-width: 575px) {
+  .u-header .u-btn-1 {
+    margin-left: -10px;
+  }
 
+  .u-header .u-btn-2 {
+    margin-top: -45px;
+    margin-right: -14px;
+  }
+
+  .u-header .u-btn-4 {
+    margin-top: -37px;
+  }
+}
 .u-footer .u-sheet-1 {
   min-height: 12px;
 }
