@@ -47541,7 +47541,7 @@ a.u-link.u-text-hover-color-var:hover {
   line-height: 1.12;
   font-style: italic;
   font-weight: 700;
-  margin: -33px auto 0 30px;
+  margin: -44px auto 0 29px;
   padding: 17px 18px 19px 17px;
 }
 
@@ -47551,7 +47551,7 @@ a.u-link.u-text-hover-color-var:hover {
   border-style: solid;
   line-height: 0.72;
   font-weight: 700;
-  margin: -55px auto 0 470px;
+  margin: -44px auto 0 470px;
   padding: 10px 8px;
 }
 
@@ -47618,12 +47618,12 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-btn-2 {
-    margin-top: -33px;
+    margin-top: -44px;
     margin-left: -39px;
   }
 
   .u-header .u-btn-3 {
-    margin-top: -56px;
+    margin-top: -45px;
     margin-right: 205px;
     padding-bottom: 11px;
   }
@@ -47634,7 +47634,7 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-btn-5 {
-    margin-top: -32px;
+    margin-top: -33px;
     margin-left: 49px;
   }
 }
