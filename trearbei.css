@@ -1,0 +1,250 @@
+ .u-section-1 {
+  background-position: 50% 50%;
+  background-repeat: repeat;
+  background-image: url("images/603.GIF");
+  background-size: auto;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 3593px;
+}
+
+.u-section-1 .u-group-elements-1 {
+  width: 570px;
+  min-height: 314px;
+  margin: 196px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 256px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-group-elements-2 {
+  width: 525px;
+  min-height: 622px;
+  margin: 105px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 432px;
+  height: 536px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0;
+}
+
+.u-section-1 .u-group-elements-3 {
+  width: 603px;
+  min-height: 457px;
+  margin: 106px auto 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 399px;
+  height: 399px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0;
+}
+
+.u-section-1 .u-group-elements-4 {
+  width: 601px;
+  min-height: 264px;
+  height: auto;
+  margin: 105px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 235px auto 0;
+}
+
+.u-section-1 .u-image-4 {
+  height: auto;
+  margin-top: -264px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-group-elements-5 {
+  width: 701px;
+  min-height: 614px;
+  margin: 106px auto 0;
+}
+
+.u-section-1 .u-rotation-parent-1 {
+  animation-timing-function: ease;
+  width: 701px;
+  height: 528px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-image-5 {
+  width: 528px;
+  height: 701px;
+  transform-origin: center center;
+  transform: translateX(-50%) translateY(-50%) rotate(90deg);
+}
+
+.u-section-1 .u-text-5 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-group-elements-6 {
+  width: 318px;
+  min-height: 417px;
+  margin: 105px auto 60px;
+}
+
+.u-section-1 .u-image-6 {
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2963px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: NaNpx;
+  }
+
+  .u-section-1 .u-image-6 {
+    height: NaNpx;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2270px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1582px;
+  }
+
+  .u-section-1 .u-group-elements-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-group-elements-3 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-group-elements-4 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-group-elements-5 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 3326px;
+  }
+
+  .u-section-1 .u-group-elements-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-group-elements-2 {
+    min-height: 540px;
+    margin-top: 70px;
+    height: auto;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 441px;
+    margin-top: 4px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -4px;
+  }
+
+  .u-section-1 .u-group-elements-3 {
+    width: 399px;
+    min-height: 451px;
+    height: auto;
+    margin-top: 90px;
+    margin-left: -29px;
+    margin-right: -29px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: auto;
+    margin-top: -1px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 1px;
+  }
+
+  .u-section-1 .u-group-elements-4 {
+    min-height: 157px;
+    margin-top: 90px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 132px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: -157px;
+  }
+
+  .u-section-1 .u-group-elements-5 {
+    width: 160px;
+    min-height: 77px;
+    height: auto;
+    margin-top: 767px;
+    margin-left: 70px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    margin-top: -528px;
+    margin-left: -248px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+  }
+
+  .u-section-1 .u-group-elements-6 {
+    min-height: 410px;
+    height: auto;
+    margin-top: 70px;
+  }
+}
