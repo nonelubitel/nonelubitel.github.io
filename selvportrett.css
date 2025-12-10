@@ -1,0 +1,57 @@
+ .u-section-1 {
+  background-position: 50% 50%;
+  background-repeat: repeat;
+  background-image: url("images/slt1.gif");
+  background-size: auto;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1358px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 433px;
+  height: 300px;
+  margin: 176px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 435px;
+  height: 571px;
+  margin: 55px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1120px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 858px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 644px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 973px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 236px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 463px;
+    width: 375px;
+    margin: 50px -18px 48px;
+  }
+}
