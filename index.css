@@ -76,21 +76,29 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 514px;
+    min-height: 595px;
   }
 
   .u-section-1 .u-group-elements-1 {
-    width: 440px;
-    min-height: 363px;
-    margin: 102px -50px 49px;
+    min-height: 527px;
+    margin-top: 69px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 218px;
+    margin-top: -1px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -354px;
+    width: 126px;
+    height: 237px;
+    margin-top: 28px;
+    margin-bottom: 0;
+    margin-left: 90px;
   }
 } .u-section-2 {
   background-position: 50% 50%;
