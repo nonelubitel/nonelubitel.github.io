@@ -1,101 +1,57 @@
  .u-section-1 {
   background-position: 50% 50%;
   background-repeat: repeat;
-  background-image: url("images/305-13.gif");
+  background-image: url("images/305.gif");
   background-size: auto;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 2065px;
-}
-
-.u-section-1 .u-group-elements-1 {
-  width: 620px;
-  min-height: 1612px;
-  height: auto;
-  margin: 126px auto 60px;
+  min-height: 1676px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 0 auto;
+  width: 725px;
+  margin: 36px auto 60px;
 }
 
 .u-section-1 .u-btn-1 {
-  letter-spacing: 1px;
-  border-style: solid;
-  font-weight: 700;
   background-image: none;
-  margin: -1300px 233px 0 auto;
-  padding: 10px 13px 10px 11px;
+  border-style: solid;
+  padding: 0 5px 0 4px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1703px;
+    min-height: 1382px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1946px;
-  }
-
-  .u-section-1 .u-group-elements-1 {
-    margin-top: 175px;
+    min-height: 1059px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 13px;
-    margin-left: 50px;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: -1383px;
+    width: 720px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1460px;
-  }
-
-  .u-section-1 .u-group-elements-1 {
-    width: 490px;
-    min-height: 1562px;
-    margin-top: 188px;
+    min-height: 794px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 3px;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: -1293px;
-    margin-right: 133px;
+    width: 540px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2128px;
-  }
-
-  .u-section-1 .u-group-elements-1 {
-    min-height: 1946px;
-    margin-bottom: 10px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    min-height: 500px;
   }
 
   .u-section-1 .u-text-1 {
-    width: auto;
-    margin-top: 1px;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: -1601px;
+    width: 340px;
   }
 }
