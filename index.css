@@ -107,8 +107,11 @@
   }
 
   .u-section-1 .u-group-elements-1 {
-    width: 340px;
+    min-height: 516px;
     margin-top: 116px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-text-1 {
@@ -125,7 +128,7 @@
 
   .u-section-1 .u-group-elements-2 {
     height: auto;
-    margin-top: 243px;
+    margin-top: 29px;
     margin-bottom: 49px;
   }
 }
