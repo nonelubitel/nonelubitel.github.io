@@ -162,19 +162,20 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 1165px;
+  min-height: 1166px;
 }
 
 .u-section-2 .u-text-1 {
   font-size: 2.25rem;
   font-style: italic;
-  margin: 1px auto 0;
+  margin: 38px auto 0;
 }
 
 .u-section-2 .u-image-1 {
   width: 336px;
-  height: 495px;
-  margin: 1px auto 0;
+  height: 425px;
+  object-position: 50% 100%;
+  margin: 34px auto 0;
 }
 
 .u-section-2 .u-text-2 {
