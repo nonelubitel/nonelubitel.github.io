@@ -91,7 +91,7 @@
     margin-bottom: 0;
   }
 } .u-section-2 {
-  background-position: 50% 50%, 50% 50%;
+  background-position: 50% 50%;
   background-repeat: no-repeat, repeat;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/033C.jpg');
   background-size: cover, auto;
@@ -372,19 +372,19 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 1260px;
+  min-height: 1237px;
 }
 
 .u-section-4 .u-text-1 {
   font-size: 2.25rem;
   font-style: italic;
-  margin: 44px auto 0;
+  margin: 38px auto 0;
 }
 
 .u-section-4 .u-image-1 {
   width: 336px;
   height: 495px;
-  margin: 52px auto 0;
+  margin: 35px auto 0;
 }
 
 .u-section-4 .u-text-2 {
@@ -407,7 +407,7 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1039px;
+    min-height: 1020px;
   }
 }
 
@@ -447,19 +447,19 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 1566px;
+  min-height: 1517px;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 2.25rem;
   font-style: italic;
-  margin: 69px auto 0;
+  margin: 50px auto 0;
 }
 
 .u-section-5 .u-image-1 {
   width: 336px;
   height: 336px;
-  margin: 69px auto 0;
+  margin: 40px auto 0;
 }
 
 .u-section-5 .u-image-2 {
@@ -474,7 +474,7 @@
 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1291px;
+    min-height: 1251px;
   }
 }
 
