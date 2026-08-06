@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="nonelubitel.github.io, velkommen til nonesrike">
+    <meta name="description" content="">
+    <title>helvete</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="index.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 8.1.4, nicepage.com">
+    
+    
+    
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css2?display=swap&amp;family=Roboto:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800">
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="heim">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-home-page="heim.html" data-home-page-title="heim" data-path-to-root="./" data-include-products="false" class="u-black u-body u-clearfix u-overlap u-overlap-transparent u-stick-footer u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-hidden u-sticky u-sticky-02f5 u-header" id="header"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <a href="https://nonelubitel.github.io/" class="u-active-black u-black u-border-1 u-border-active-white u-border-hover-black u-border-white u-btn u-button-style u-custom-font u-font-georgia u-hover-black u-text-white u-btn-1" title="index">index </a>
+      </div></header>
+    <section class="u-black u-clearfix u-section-1" id="block-2">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width-xs u-group-elements u-group-elements-1">
+          <h1 class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-custom-font u-font-georgia u-text u-text-white u-text-1">&nbsp;<br>
+            <br>velkommen til min nettside. den er ment som en kombinasjon av et manifest, portfolio, protest mot sosiale meider og emosjonell avlastningsgrunn.<br>
+			<br>her har jeg tenkt å lagre min kunstnerisk virksomhet. dette akter jeg å gjøre til tross for at dere utvilsomt vil bruke det imot meg i himmelens rettssal når dere bestemmer dere for at min tid er omme.<br>
+            <br>takk for besøket. jeg planlegger å legge til en gjesteliste når jeg finner ut åssen det gjøres<br>
+            <br>jeg kan nås på:<br>epost: nonesahakian@gmail.com<br>instagram: @postmodernisten<br>noné antila sahakian (min egen person)
+          </h1>
+          <img class="u-border-1 u-border-white u-image u-image-default u-image-1" src="images/sexy.jpg" alt="" data-image-width="725" data-image-height="552">
+        </div>
+        <div class="u-align-center u-clearfix u-group-elements u-group-elements-2">
+          <a href="https://nonelubitel.github.io/galleri.html" class="u-active-black u-align-center u-black u-border-1 u-border-active-white u-border-hover-black u-border-white u-btn u-button-style u-custom-font u-font-georgia u-hover-black u-text-body-alt-color u-btn-1" title="tegneserier">tegneserier</a>
+          <a href="trearbei.html" data-page-id="228116048" class="u-active-black u-align-center u-black u-border-1 u-border-active-white u-border-hover-black u-border-white u-btn u-button-style u-custom-font u-font-georgia u-hover-black u-text-body-alt-color u-btn-2" title="tre">tre</a>
+          <a href="mental.html" data-page-id="568405831" class="u-active-black u-align-center u-black u-border-1 u-border-active-white u-border-hover-black u-border-white u-btn u-button-style u-custom-font u-font-georgia u-hover-black u-text-body-alt-color u-btn-3" title="metall">metall</a>
+          <a href="https://nonelubitel.github.io/film.html" class="u-active-black u-align-center u-black u-border-1 u-border-active-white u-border-hover-black u-border-white u-btn u-button-style u-custom-font u-font-georgia u-hover-black u-text-body-alt-color u-btn-4" title="anmeldelser">anmeldelser</a>
+        </div>
+      </div>
+    </section>
+  
+</body></html>
