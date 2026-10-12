@@ -1,0 +1,137 @@
+ .u-section-1 {
+  background-position: 50% 50%;
+  background-repeat: repeat;
+  background-image: url("images/065C.jpg");
+  background-size: auto;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1303px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 938px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 904px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-size: 1.5rem;
+  margin: 83px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  width: 904px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-size: 2.25rem;
+  text-decoration: underline !important;
+  font-weight: 700;
+  margin: 20px 118px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1074px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 823px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 720px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 617px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+    font-size: 1.3333333333333333rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 540px;
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 388px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+  }
+} .u-section-2 {
+  background-position: 50% 50%;
+  background-repeat: repeat;
+  background-image: url("images/candle32.gif");
+  background-size: auto;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1303px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 30px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  height: 1050px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-2 {
+  width: 904px;
+  font-size: 1.5rem;
+  margin: -29px auto 60px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    width: 540px;
+    font-size: 1.3333333333333333rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+}
